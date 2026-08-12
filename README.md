@@ -34,7 +34,7 @@ Final Report & Presentation
 2.) SQL — business-focused querying and transaction simulation
 3.) Power BI — interactive visualization and dashboarding
 
-## ooutcome
+## Outcome
 
 By the end of this project, raw transactional data is turned into a structured set of business insights — covering customer segments, loyalty patterns, and purchase behavior — packaged into a dashboard, a written report, and a presentation suitable for a non-technical stakeholder audience.
 
